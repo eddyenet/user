@@ -14,7 +14,7 @@ $we_stat = true;
 $msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
 
-$data = [];
+$data = ['Eddye Law'];
 
 $toto = ['test'];
 $ydnews = ['tes','kintil'];
